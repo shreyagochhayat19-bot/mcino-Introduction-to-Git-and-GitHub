@@ -1,0 +1,13 @@
+curl -u shreyagochhayat19-bot https://api.github.com/repos/shreyagochhayat19-bot/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "id": 1,
+    "state": "open",
+    "head": {
+      "repo": {
+        "full_name": "shreyagochhayat19-bot/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
